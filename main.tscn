@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" uid="uid://dm65d3atahxtd" path="res://main.gd" id="1_h2yge"]
 [ext_resource type="PackedScene" uid="uid://c4ihb2al5ggjb" path="res://mob.tscn" id="2_1bvp3"]
-[ext_resource type="PackedScene" uid="uid://2u5r5g555wvs" path="res://player.tscn" id="3_h2yge"]
+[ext_resource type="PackedScene" uid="uid://2u5r5g555wvs" path="res://Player.tscn" id="3_h2yge"]
 [ext_resource type="FontFile" uid="uid://dwv0pfab33770" path="res://fonts/Montserrat-Medium.ttf" id="4_lquwl"]
 [ext_resource type="Script" uid="uid://dq7s1vqm8fi4s" path="res://score_label.gd" id="5_7mycd"]
 
