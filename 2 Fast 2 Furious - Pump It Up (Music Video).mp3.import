@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dm3y0k1e0ygrr"
+path="res://.godot/imported/2 Fast 2 Furious - Pump It Up (Music Video).mp3-6c6eda084ce4796e7c787107d242a861.mp3str"
+
+[deps]
+
+source_file="res://2 Fast 2 Furious - Pump It Up (Music Video).mp3"
+dest_files=["res://.godot/imported/2 Fast 2 Furious - Pump It Up (Music Video).mp3-6c6eda084ce4796e7c787107d242a861.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

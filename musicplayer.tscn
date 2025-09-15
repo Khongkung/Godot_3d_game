@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://2r8fnoibybe3"]
+
+[ext_resource type="AudioStream" uid="uid://dm3y0k1e0ygrr" path="res://2 Fast 2 Furious - Pump It Up (Music Video).mp3" id="1_ryb5w"]
+
+[node name="Musicplayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_ryb5w")
+autoplay = true
